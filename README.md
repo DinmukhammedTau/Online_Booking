@@ -4,9 +4,8 @@
 The **Online Booking System** is a web-based platform for managing reservations and user accounts. Built with Golang and PostgreSQL, it provides a robust backend API to handle user and booking data efficiently.
 
 ## Team Members
-- [Name 1]
-- [Name 2]
-- [Name 3]
+- Bekzat Sapargali
+- Tauassar Dinmukhammed
 
 ## Main Page Screenshot
 ![Main Page Screenshot](./images/main_page.png)
