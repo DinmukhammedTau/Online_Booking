@@ -3,6 +3,14 @@
 ## Overview
 The **Online Booking System** is a web-based platform for managing reservations and user accounts. Built with Golang and PostgreSQL, it provides a robust backend API to handle user and booking data efficiently.
 
+## Team Members
+- [Name 1]
+- [Name 2]
+- [Name 3]
+
+## Main Page Screenshot
+![Main Page Screenshot](./images/main_page.png)
+
 ## Features
 - **User Management**: Create, update, view, and delete user profiles.
 - **Booking Management**: Basic functionality for creating and managing reservations.
@@ -15,9 +23,4 @@ The **Online Booking System** is a web-based platform for managing reservations 
 - **Error Handling**: Clear JSON error responses for invalid inputs or failures.
 - **Scalable Design**: Easily extendable for additional features like payments and notifications.
 
-## Future Goals
-- Authentication and authorization.
-- Enhanced booking features, including time slots and categories.
-- Notifications for reminders and updates.
 
-This project is ideal for industries like healthcare, travel, or personal services and serves as a foundation for building a scalable booking platform.
