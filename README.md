@@ -8,7 +8,7 @@ The **Online Booking System** is a web-based platform for managing reservations 
 - Tauassar Dinmukhammed
 
 ## Main Page Screenshot
-![Main Page Screenshot]([./images/main_page.pn](https://github.com/DinmukhammedTau/SDPASSIGN1DIM/blob/main/photo_2024-12-26_01-28-22.jpg)g)
+![Main Page Screenshot](https://github.com/DinmukhammedTau/SDPASSIGN1DIM/blob/main/photo_2024-12-26_01-28-22.jpg)
 
 ## Features
 - **User Management**: Create, update, view, and delete user profiles.
